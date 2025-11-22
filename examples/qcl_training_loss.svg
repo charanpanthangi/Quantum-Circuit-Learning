@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
+  <title>QCL Training Loss</title>
+  <rect width="100%" height="100%" fill="white" stroke="none" />
+  <polyline fill="none" stroke="#ff7f0e" stroke-width="2" points="20,200 60,170 100,150 140,130 180,120 220,110 260,105 300,102 340,101 380,100" />
+  <polyline fill="none" stroke="#d62728" stroke-width="2" points="20,205 60,180 100,165 140,145 180,135 220,128 260,123 300,120 340,118 380,117" />
+  <text x="20" y="20" font-size="14" fill="#000">Mean squared error per epoch</text>
+  <text x="40" y="215" font-size="12" fill="#ff7f0e">Train loss</text>
+  <text x="200" y="215" font-size="12" fill="#d62728">Validation loss</text>
+</svg>

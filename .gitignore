@@ -1,1 +1,8 @@
-
+__pycache__/
+*.pyc
+.env
+.venv
+.ipynb_checkpoints
+*.svg
+!examples/*.svg
+.DS_Store

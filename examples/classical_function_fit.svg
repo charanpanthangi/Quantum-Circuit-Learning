@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
+  <title>Classical baseline fit</title>
+  <rect width="100%" height="100%" fill="white" stroke="none" />
+  <polyline fill="none" stroke="#1f77b4" stroke-width="1" points="0,120 40,70 80,30 120,10 160,30 200,70 240,120 280,170 320,210 360,230 400,210" />
+  <polyline fill="none" stroke="#2ca02c" stroke-width="2" points="0,120 40,60 80,20 120,0 160,20 200,60 240,120 280,180 320,220 360,240 400,220" />
+  <text x="20" y="20" font-size="14" fill="#000">Classical prediction vs target</text>
+  <text x="20" y="210" font-size="12" fill="#1f77b4">Target samples</text>
+  <text x="220" y="210" font-size="12" fill="#2ca02c">Classical prediction</text>
+</svg>
